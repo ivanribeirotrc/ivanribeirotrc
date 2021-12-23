@@ -2,7 +2,7 @@
 
 # Sobre
 - 👨‍🎓 __Estudando:__ Ciências Da Computação
-- 📕 __Aprendendo:__ Lua, GML
+- 📕 __Aprendendo:__ Python, Lua, GML
 - 🔧 __Ferramentas Principais:__ Visual Studio Code, GMS
 
 # Linguagens 
