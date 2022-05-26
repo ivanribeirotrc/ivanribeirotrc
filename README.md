@@ -1,7 +1,7 @@
 # Ivan Ribeiro
 
 # Sobre
-- 👨‍🎓 __Estudando:__ Ciência da Computação - UNIFACS
+- 👨‍🎓 __Cursando:__ Ciência da Computação - UNIFACS
 - 📕 __Aprendendo:__ Web(HTML5,CSS3,JS) / Python / Lua / GML
 - 🔧 __Ferramentas Principais:__ Visual Studio Code, GMS2
 
