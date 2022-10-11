@@ -2,8 +2,8 @@
 
 # Sobre
 - 👨‍🎓 __Cursando:__ Ciência da Computação - UNIFACS
-- 📕 __Aprendendo:__ Web(HTML5,CSS3,JS) / Python / Lua / GML
-- 🔧 __Ferramentas Principais:__ Visual Studio Code, GMS2
+- 📕 __Aprendendo:__ HTML5/CSS/JS | SQL | Python | 
+- 🔧 __Ferramentas Principais:__ Visual Studio Code, Game Maker Studio 2, SQL Server Management Studio
 
 # Linguagens 
 <div>
