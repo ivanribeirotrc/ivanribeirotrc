@@ -32,7 +32,7 @@
   <img align="center" alt="Ivan-Proces" src="https://img.shields.io/badge/Intel-Core_i7_6th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   <img align="center" alt="Ivan-PlacaV" src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
-    
+
 # Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanribeirotrc&count_private=true&show_icons=true&theme=radical)
