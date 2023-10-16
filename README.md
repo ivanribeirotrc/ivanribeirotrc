@@ -1,9 +1,10 @@
 # Ivan Ribeiro
 
 # Sobre
-- 👨‍🎓 __Cursando:__ Ciência da Computação - UNIFACS
-- 📕 __Aprendendo:__ HTML5/CSS/JS | SQL | Python | 
-- 🔧 __Ferramentas Principais:__ Visual Studio Code, Game Maker Studio 2, SQL Server Management Studio
+- 💻 Desenvolvedor Java Jr - Login Informática. 
+- 👨‍🎓 Ciência da Computação - UNIFACS.
+- 📕 JAVA | LUA | JAVASCRIPT | HTML/CSS
+- 🔧 Visual Studio Code, Game Maker Studio 2, SQL Server Management Studio
 
 # Linguagens 
 <div>
