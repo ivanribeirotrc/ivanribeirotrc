@@ -3,8 +3,8 @@
 # Sobre
 - 💻 Desenvolvedor Java Jr - Login Informática. 
 - 👨‍🎓 Ciência da Computação - UNIFACS.
-- 📕 JAVA | LUA | JAVASCRIPT | HTML/CSS
-- 🔧 Visual Studio Code, Game Maker Studio 2, SQL Server Management Studio
+- 📕 JAVA | LUA | PYTHON | JAVASCRIPT
+- 🔧 Visual Studio Code, Game Maker Studio 2, SQL Server Management Studio, Pycharm
 
 # Linguagens 
 <div>
