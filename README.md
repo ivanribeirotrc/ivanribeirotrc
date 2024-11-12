@@ -1,7 +1,8 @@
 # Ivan Ribeiro
 
 # Sobre
-- 💻 Desenvolvedor Java Jr - Login Informática. 
+- 💻 Desenvolvedor Java - Login Informática.
+- 💻 Desenvolvedor Python FullStack
 - 👨‍🎓 Ciência da Computação 7/8 - UNIFACS.
 - 📕 JAVA | LUA | PYTHON | JAVASCRIPT
 - 🔧 Eclipse, SQL Server Management Studio, Visual Studio Code | Game Maker Studio 2, RPG Maker MV
